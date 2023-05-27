@@ -1,3 +1,6 @@
 https://www.roblox.com/games/4442272183/Blox-Fruits-Second-Sea#!/game-instances
 
 loadstring(game:HttpGet'https://raw.githubusercontent.com/Padupo/scrnohop/main/FreeFrai')()
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/minded102/dokinbog/main/README.md", true))()
